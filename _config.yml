@@ -1,12 +1,13 @@
 title: Mohammad Al Muktabar # your name (or website title) here
-logo: "/images/Foto.jpg?raw=true" # your photo (or logo) here
+logo: "/images/Foto2.JPG?raw=true" # your photo (or logo) here
 description:
   > # your text below (remove <br> elements if you don't need line breaks)
-  Fresh Graduate from Institut Teknologi Sumatera, majoring in Informatics Engineering. I am passionate about technology and always eager to learn new things. I have a strong interest in data science and machine learning.
-  <br><br>
+  Recent graduate from Institut Teknologi Sumatera, with a degree in Informatics Engineering.
 
   <br><br>
-  <a href="https://www.linkedin.com/in/mohammad-al-muktabar-32a4a72a4">View My LinkedIn Profile</a>
+  <a href="/pdf/CV_Mohammad Al Muktabar.pdf" target="_blank">View My CV (Curriculum Vitae)</a>
+  <br>
+  <a href="https://www.linkedin.com/in/mohammad-al-muktabar-32a4a72a4" target="_blank">View My LinkedIn Profile</a>
 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

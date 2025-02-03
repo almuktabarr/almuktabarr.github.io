@@ -1,3 +1,9 @@
+---
+layout: default
+title: Portfolio
+permalink: /
+---
+
 ## Portfolio
 
 ---
@@ -28,3 +34,7 @@
 - [Project 5 Title](http://example.com/)
 
 ---
+
+### Certificate
+
+- [My Certificate](http://example.com/)
