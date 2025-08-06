@@ -28,6 +28,40 @@ permalink: /
 
 ---
 
+### Klasifikasi Jenis Hewan Berdasarkan Gambar <a href="https://image-classifier-1912.vercel.app/" target="_blank">(View the project)</a> 
+
+<p style="text-align: justify;">Merancang sebuah sistem yang mampu mengidentifikasi jenis hewan (Spider, Butterfly, Hen, Elephant, Dogs, Monkey, Squirrel) berdasarkan gambar menggunakan model EfficientNetB7.</p> 
+
+<img src="images/Project_6.jpg?raw=true"/>
+
+[![](https://img.shields.io/badge/Individual-Project-blue?)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/scikit--learn-white?logo=scikit-learn)](#)
+
+---
+
+---
+
+### Klasifikasi Jenis Sampah Plastik Berdasarkan Gambar <a href="https://image-classifier-1912.vercel.app/" target="_blank">(View the project)</a> 
+
+<p style="text-align: justify;">Merancang sebuah sistem yang mampu mengidentifikasi jenis sampah plastik (HDPE, PET, PP, dan PS) berdasarkan gambar yang diinputkan pengguna.</p> 
+
+<img src="images/Project_5.jpg?raw=true"/>
+
+[![](https://img.shields.io/badge/Team-Project-blue?)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](#)
+
+---
+
+---
+
+### Clustering dan Klasifikasi Dataset Kesejahteraan Pekerja Indonesia <a href="https://github.com/almuktabarr/Proyek_clustering_classification.git" target="_blank">(View the project)</a> 
+
+<p style="text-align: justify;">Mengerjakan proyek unsupervised dan supervised learning menggunakan <a href="https://www.kaggle.com/datasets/wowevan/dataset-kesejahteraan-pekerja-indonesia" target="_blank">dataset kesejahteraan pekerja indonesia</a> Proyek ini mencakup tahapan Exploratory Data Analysis (EDA), pembersihan dan pra-pemrosesan data, implementasi K-Means Clustering, interpretasi hasil clustering, dan pembangunan model klasifikasi menggunakan Decision Tree dan logistic regression. Hasil akhir mencakup model klasifikasi yang dilatih berdasarkan hasil clustering, dengan evaluasi menggunakan metrik akurasi, presisi, recall, dan F1-score.</p> 
+
+<img src="images/Project_4.jpg?raw=true"/>
+
+[![](https://img.shields.io/badge/Individual-Project-blue?)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/scikit--learn-white?logo=scikit-learn)](#)
+
+---
+
 ### Prediksi Perubahan Kalori Manusia <a href="https://www.kaggle.com/code/malmuktabar/olc-final-project/notebook" target="_blank">(View the project)</a>
 
 <p style="text-align: justify;">Menganalisis faktor-faktor yang mempengaruhi perubahan kalori tubuh manusia untuk membantu mengatur kadar kalori menggunakan bantuan algoritma machine learning (Random forest, Gradient Boosting, Extreme Gradient Boosting) dan optimasi Random Search.</p>
