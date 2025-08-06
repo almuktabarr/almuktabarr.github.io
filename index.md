@@ -34,7 +34,7 @@ permalink: /
 
 <img src="images/Project_6.png?raw=true"/>
 
-[![](https://img.shields.io/badge/Individual-Project-blue?)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/scikit--learn-white?logo=scikit-learn)](#)
+[![](https://img.shields.io/badge/Individual-Project-blue?)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](#)
 
 ---
 
